@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MobileProgramming-1.2-1.3</string>
+    <string name="article_title">WehiMedia</string>
+    <string name="article_subtitle">Penjelasan Psikologi Menurut Ahli</string>
+    <string name="article_text">
+        <b>Psikologi</b> - Sejarah perkembangan psikologi secara umum terbagi menjadi 3 masa, yaitu psikologi pra-sistematik, psikologi sistematik, dan psikologi ilmiah. Psikologi pra-sistematik dimulai ketika manusia mulai melakukan perenungan terhadap keberadaannya. Renungan ini bersifat tidak teratur dan umumnya dikaitkan dengan pemikiran mitologi dan agama. Psikologi sistematik mulai berkembang pada 400 SM melalui pemikiran-pemikiran Plato. Psikologi mulai diberi perenungan-perenungan yang teratur secara rasional. Sedangkan psikologi ilmiah mulai berkembang pada akhir abad ke-19 Masehi. Psikologi menjadi ilmu tersendiri yang memiliki berbagai kesimpulan yang faktual dengan definisi yang jelas.
+
+        Sebagai bagian dari ilmu pengetahuan, psikologi melalui sebuah perjalanan panjang. Konsep psikologi dapat ditelusuri jauh ke masa Yunani kuno. Psikologi memiliki akar dari bidang ilmu filsafat yang diprakarsai sejak zaman Aristoteles sebagai ilmu jiwa, yaitu ilmu untuk kekuatan hidup. Aristoteles memandang ilmu jiwa sebagai ilmu yang mempelajari gejala-gejala kehidupan. Jiwa adalah unsur kehidupan (Anima), karena itu setiap makhluk hidup memiliki jiwa.[4] Sejarah psikologi sejalan dengan perkembangan intelektual di Eropa, namun mendapatkan bentuk pragmatisnya di benua Amerika.
+    </string>
+    <string name="selesai">selesai</string>
+</resources>
