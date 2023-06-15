@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tennis Scorekeeper</string>
+    <string name="team_1">Group 1</string>
+    <string name="team_2">Group 2</string>
+    <string name="initial_count">0</string>
+    <string name="minus_button_description">Minus Button</string>
+    <string name="plus_button_description">Plus Button</string>
+    <string name="mode_gelap">Mode Malam</string>
+    <string name="mode_terang">Mode Siang</string>
+</resources>
